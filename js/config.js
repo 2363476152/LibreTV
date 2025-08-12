@@ -106,6 +106,10 @@ const API_SITES = {
         api: 'https://wwzy.tv/api.php/provide/vod',
         name: '旺旺短剧'
     },
+    dldm: {
+        api: 'https://www.dalvdm.cc/provide/vod',
+        name: '打驴动漫'
+    },
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
